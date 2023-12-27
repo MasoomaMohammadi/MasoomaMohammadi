@@ -28,16 +28,14 @@
 ---
 
 - 🎓 I am in 1th Semester in Herat University.
-
-- 👩‍💻 I’m currently working as backend deveoper in Kind developers
-
-- 🌱 I’m currently learning Html5 and css3.
+  
+- 🌱 I’m currently learning JavaScript.
 
 - 💻 All **my projects** are available [here](https://github.com/Masooma2023)
 
 - 👯 I’m looking to collaborate on Web Projects
 
-- 📫 Reach me on: 📧 masoomamohammadi878@gmail.com
+- 📫 Reach me on: 📧 masoomam696@gmail.com
 
 - ✨ Interests: coding, reading books.
 
