@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![JavaScript](https://www.flaticon.com/svg/static/icons/svg/919/919828.svg)
+![JavaScript]()
 
 
 <h1 align="center">Masooma Mohammadi</h1>
