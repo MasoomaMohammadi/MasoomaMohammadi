@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Masooma Mohammadi</h1>
-<h3 align="center">A computer Sofware Engineer in Herat. 🤚</h3>
+<h3 align="center">A Front-End Developer in Herat. 🤚</h3>
 
 <p align="center">Currently. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I Can work front-end developer </p>
 
